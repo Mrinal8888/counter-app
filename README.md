@@ -1,3 +1,4 @@
+![Counter Application GIF](https://github.com/Mrinal8888/counter-app/blob/main/asses.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
